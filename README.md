@@ -1,2 +1,3 @@
 # TextAnalyzer
-A simple tool to analyze data Django backend
+Built using Django
+A simple tool to analyze data 
